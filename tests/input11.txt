@@ -1,0 +1,7 @@
+Hello, we implement a WordCount application for operating systems course! 
+
+All the projects were fun but WordCount project is the most fun. 
+
+Make sure to have all characters in test file as ASCII.
+
+Have FUN!!!

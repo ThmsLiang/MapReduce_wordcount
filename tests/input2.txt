@@ -1,0 +1,15 @@
+hello we implement a wordcount application for operating systems course
+
+all the projects were fun but wordcount project is the most fun
+
+make sure to have all characters in test file as ascii
+
+have fun
+
+hello we implement a wordcount application for operating systems course
+
+all the projects were fun but wordcount project is the most fun
+
+make sure to have all characters in test file as ascii
+
+have fun
