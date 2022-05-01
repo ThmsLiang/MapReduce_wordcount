@@ -1,0 +1,6 @@
+# Design Doc for project 5
+
+## main.c
+- add mapper(int), reducer(int) functions.
+- add three pipe array master_to_mappers, mappers_to_reducers, reducers_to_master.
+- define N = 8 and M = 4.
